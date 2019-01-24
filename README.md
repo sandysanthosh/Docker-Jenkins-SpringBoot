@@ -47,6 +47,7 @@ Create a wordpress with docker
    Db-data
    
       
-   
-   
-   
+   Docker cmd
+   Docker ps - container on my machine
+   Docker images
+   Docker 
