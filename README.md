@@ -5,11 +5,13 @@ Create a wordpress with docker
  Hub.docker.com
  
  Mysql 
+ 
  CreeCreeate new user and password
  CramCreate new phpmyadmin
    
    
    Version :'3'
+   
    
    Servicea:
    #database
@@ -25,6 +27,7 @@ Create a wordpress with docker
    
    #wordpress
    
+   
    Wordpress
    Depends on
    Image 
@@ -37,6 +40,7 @@ Create a wordpress with docker
       Password 
       
     Network-wpsite
+    
    Network:   
    Wp-site
    Volume:
